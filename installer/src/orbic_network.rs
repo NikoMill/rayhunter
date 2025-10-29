@@ -252,3 +252,10 @@ async fn setup_rayhunter(admin_ip: &str) -> Result<()> {
 
     Ok(())
 }
+}
+
+
+
+./installer orbic
+# or: ./installer [orbic-network|tplink|tmobile|uz801|pinephone|wingtech]
+}
